@@ -1,0 +1,5 @@
+.DS_Store
+Silhouette_plot
+silhouette_plot_with_embeds
+.ipynb_checkpoints
+data/embedding_train.csv
